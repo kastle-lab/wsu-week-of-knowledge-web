@@ -11,7 +11,7 @@ Come be part of the action as our community takes the lead in shaping the future
 
 ## Why Attend?
 
-Together, **US2TS 2025** and **K-CAP 2025** offer a unique opportunity to:
+Together, **[US2TS 2025](./US2TS.md)** and **[K-CAP 2025](./K-CAP.md)** offer a unique opportunity to:
 
 - Engage with the forefront of **semantic technologies** and **knowledge-centric AI**
 - Connect with leading researchers and practitioners
